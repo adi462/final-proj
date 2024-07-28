@@ -1,6 +1,4 @@
-# final-proj
-
-Certainly! Here is the text explaining the code snippet:
+# Explanation of the Project 
 
 ---
 
